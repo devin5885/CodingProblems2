@@ -1,4 +1,4 @@
-﻿# Minesweeper
+# Minesweeper
 
 ## Problem
 Design & implement a text-based minesweeper game. Minesweeper is the classic
